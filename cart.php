@@ -52,8 +52,12 @@ else
 
 <br><br>
 
-<a href="products.php">
-Back To Products
+<a href="products.php">Back To Products</a>
+
+<br><br>
+
+<a href="checkout.php">
+<button>Proceed to Checkout</button>
 </a>
 
 </body>
